@@ -1,4 +1,4 @@
-module github.com/tinkerbell/boots
+module github.com/mpanduru/boots
 
 go 1.18
 
