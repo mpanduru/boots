@@ -29,8 +29,8 @@ import (
 	"github.com/tinkerbell/boots/job"
 	"github.com/tinkerbell/boots/metrics"
 	"github.com/tinkerbell/boots/syslog"
-	"github.com/tinkerbell/ipxedust"
-	"github.com/tinkerbell/ipxedust/ihttp"
+	"github.com/mpanduru/ipxedust"
+	"github.com/mpanduru/ipxedust/ihttp"
 	"go.uber.org/zap"
 	"go.uber.org/zap/zapcore"
 	"golang.org/x/sync/errgroup"
@@ -120,7 +120,7 @@ func main() {
 	}()
 
 	g, ctx := errgroup.WithContext(ctx)
-	lg := log.WithValues("service", "github.com/tinkerbell/boots").WithName("github.com/tinkerbell/ipxedust")
+	lg := log.WithValues("service", "github.com/tinkerbell/boots").WithName("github.com/mpanduru/ipxedust")
 	ipxe := &ipxedust.Server{
 		Log:                  lg,
 		EnableTFTPSinglePort: true,
