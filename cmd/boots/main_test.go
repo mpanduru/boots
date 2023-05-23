@@ -9,7 +9,7 @@ import (
 
 	"github.com/google/go-cmp/cmp"
 	"github.com/google/go-cmp/cmp/cmpopts"
-	"github.com/tinkerbell/ipxedust"
+	"github.com/mpanduru/ipxedust"
 )
 
 func TestParser(t *testing.T) {
