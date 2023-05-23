@@ -18,7 +18,6 @@ require (
 	github.com/pkg/errors v0.9.1
 	github.com/prometheus/client_golang v1.12.1
 	github.com/sebest/xff v0.0.0-20160910043805-6c115e0ffa35
-	github.com/tinkerbell/ipxedust v0.0.0-20230310190817-626c6f9fb069 // indirect
 	github.com/tinkerbell/tink v0.7.1-0.20220916173048-e3975fbcf4e1
 	go.opentelemetry.io/contrib/instrumentation/net/http/otelhttp v0.29.0
 	go.opentelemetry.io/otel v1.9.0
@@ -35,7 +34,7 @@ require (
 	sigs.k8s.io/controller-runtime v0.11.1
 )
 
-require github.com/mpanduru/ipxedust v0.0.0-20230522085619-5f33cb8482e2
+require github.com/mpanduru/ipxedust v0.0.0-20230523111056-f27eb053860c
 
 require (
 	github.com/benbjohnson/clock v1.3.0 // indirect

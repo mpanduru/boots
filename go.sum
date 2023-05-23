@@ -497,8 +497,8 @@ github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lN
 github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
-github.com/mpanduru/ipxedust v0.0.0-20230522085619-5f33cb8482e2 h1:3Vc+QGl1IjzupHhL2xuh11pCGcosCPPB63ZqK+gRoYE=
-github.com/mpanduru/ipxedust v0.0.0-20230522085619-5f33cb8482e2/go.mod h1:df5h/JihG/W07OWD+4qTy5k4PyFZaatsUS42nDU0W5Y=
+github.com/mpanduru/ipxedust v0.0.0-20230523111056-f27eb053860c h1:KLCMrnF0SLyz2LystmjnzbiVt9pN8k3Cj0X2WHSHch8=
+github.com/mpanduru/ipxedust v0.0.0-20230523111056-f27eb053860c/go.mod h1:df5h/JihG/W07OWD+4qTy5k4PyFZaatsUS42nDU0W5Y=
 github.com/munnerz/goautoneg v0.0.0-20120707110453-a547fc61f48d/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
 github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
@@ -654,8 +654,6 @@ github.com/stretchr/testify v1.7.0/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/
 github.com/stretchr/testify v1.7.1/go.mod h1:6Fq8oRcR53rry900zMqJjRRixrwX3KX962/h/Wwjteg=
 github.com/stretchr/testify v1.8.0 h1:pSgiaMZlXftHpm5L7V1+rVB+AZJydKsMxsQBIJw4PKk=
 github.com/subosito/gotenv v1.2.0/go.mod h1:N0PQaV/YGNqwC0u51sEeR/aUtSLEXKX9iv69rRypqCw=
-github.com/tinkerbell/ipxedust v0.0.0-20230310190817-626c6f9fb069 h1:K6YYsxAbAPtssOK664k5aVlGDpsRHbnxRaGC36ZBz7A=
-github.com/tinkerbell/ipxedust v0.0.0-20230310190817-626c6f9fb069/go.mod h1:vMRa5eo8FZ4Vqq5xSUhzf8iHzdgjSjNeesYD1ZIfJF8=
 github.com/tinkerbell/tink v0.7.1-0.20220916173048-e3975fbcf4e1 h1:K0bl3z+Lj7quCv0axvJo6sWc0ZW5u3pyZ+wG8jh3BPo=
 github.com/tinkerbell/tink v0.7.1-0.20220916173048-e3975fbcf4e1/go.mod h1:bfAkSH7J/QQYIyqZRR6IQp8w78aac6l8Z2Lws5uXz6A=
 github.com/tmc/grpc-websocket-proxy v0.0.0-20170815181823-89b8d40f7ca8/go.mod h1:ncp9v5uamzpCO7NfCPTXjqaC+bZgJeR0sMTm6dMHP7U=
