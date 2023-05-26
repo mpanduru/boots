@@ -34,7 +34,7 @@ require (
 	sigs.k8s.io/controller-runtime v0.11.1
 )
 
-require github.com/mpanduru/ipxedust v0.0.0-20230526084400-6ae797b7578a
+require github.com/mpanduru/ipxedust v0.0.0-20230526090630-e82d67baf6ab
 
 require (
 	github.com/benbjohnson/clock v1.3.0 // indirect
