@@ -497,8 +497,8 @@ github.com/modern-go/reflect2 v0.0.0-20180701023420-4b7aa43c6742/go.mod h1:bx2lN
 github.com/modern-go/reflect2 v1.0.1/go.mod h1:bx2lNnkwVCuqBIxFjflWJWanXIb3RllmbCylyMrvgv0=
 github.com/modern-go/reflect2 v1.0.2 h1:xBagoLtFs94CBntxluKeaWgTMpvLxC4ur3nMaC9Gz0M=
 github.com/modern-go/reflect2 v1.0.2/go.mod h1:yWuevngMOJpCy52FWWMvUC8ws7m/LJsjYzDa0/r8luk=
-github.com/mpanduru/ipxedust v0.0.0-20230524135944-03db26b20007 h1:bbQjFLnCk0zlB8q3yee7Y5r2wZwICdXWw7vB0BnwLCo=
-github.com/mpanduru/ipxedust v0.0.0-20230524135944-03db26b20007/go.mod h1:df5h/JihG/W07OWD+4qTy5k4PyFZaatsUS42nDU0W5Y=
+github.com/mpanduru/ipxedust v0.0.0-20230526084400-6ae797b7578a h1:41mvmzA6dvlYO2BkJN4TkDs3coO6b0gQdhv5kra/XN8=
+github.com/mpanduru/ipxedust v0.0.0-20230526084400-6ae797b7578a/go.mod h1:df5h/JihG/W07OWD+4qTy5k4PyFZaatsUS42nDU0W5Y=
 github.com/munnerz/goautoneg v0.0.0-20120707110453-a547fc61f48d/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
 github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
